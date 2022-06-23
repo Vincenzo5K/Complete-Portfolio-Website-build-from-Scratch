@@ -1,3 +1,5 @@
 # Complete-Portfolio-Website-build-from-Scratch
 
 A Portfolio Website that is build from scratch using HTML5, CSS5 and JavaScript with **"Glassmorphism Effect"**.
+
+Note: You can find the screenshots of the website in [website screenshots](Portfolio/website screenshots/) folder.
